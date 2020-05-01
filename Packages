@@ -6,7 +6,7 @@ Description: load preferences in style
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 <<Author: Sam Bingner <maintainer@sbdhi.com>
 Section: System
-Depends: libhooker-strap, com.ex.libsubstitute
+Depends: mobilesubstrate
 Filename: debs/preferenceloader_2.2.4.deb
 Size: 32646 bytes
 MD5sum: 15a81a62d50b8d12e9058aed1e0d0b47
