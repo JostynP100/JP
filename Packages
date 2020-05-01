@@ -12,3 +12,15 @@ Size: 32646 bytes
 MD5sum: 15a81a62d50b8d12e9058aed1e0d0b47
 SHA1: b074a2c28686f3a61fcfb32bc9581044db61ab4c
 SHA256: ff7b46bfc5c307af22ed9fcdbf93386d11e65ff21fcb114b3963bd5f5483f09e
+
+Package: com.jostynp100.Mytheme
+Name: Mytheme
+Architecture: iphoneos-arm
+Description: tema de prueba
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: JostynP100 <jostyn.alexis@gmail.com>
+Section: Themes
+dev: JostynP100
+Homepage: https://JostynP100.github.io/JP100/
+Version: 1.0a
+Installed-Size: 301
