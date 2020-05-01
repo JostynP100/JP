@@ -1,0 +1,14 @@
+Package: com.JP100.preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: Sam Bingner <maintainer@sbdhi.com>
+Section: System
+dev: dustinhowett
+Homepage: https://JostynP100.github.io/JP100/
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.2.4
+Installed-Size: 525
+
