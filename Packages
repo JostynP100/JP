@@ -8,10 +8,7 @@ Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Section: System
 Depends: mobilesubstrate
 Filename: debs/preferenceloader_2.2.4.deb
-Size: 32646 bytes
-MD5sum: 15a81a62d50b8d12e9058aed1e0d0b47
-SHA1: b074a2c28686f3a61fcfb32bc9581044db61ab4c
-SHA256: ff7b46bfc5c307af22ed9fcdbf93386d11e65ff21fcb114b3963bd5f5483f09e
+Size: 32736 bytes
 
 Package: com.jostynp100.Mytheme
 Name: Mytheme
@@ -36,4 +33,4 @@ Section: Video
 dev: JostynP100
 Homepage: https://JostynP100.github.io/JP100/
 Version: 3.5.1
-Size: 328340
+Size: 328340 bytes
