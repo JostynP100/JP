@@ -10,7 +10,7 @@ Depends: mobilesubstrate
 Filename: debs/preferenceloader_2.2.4.deb
 Filesize: 32736 bytes
 
-Package: net.jostynp100.mytheme
+Package: com.jostynp100.Mytheme
 Name: Mytheme
 Architecture: iphoneos-arm
 Description: tema de prueba
