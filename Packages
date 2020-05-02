@@ -20,7 +20,7 @@ Section: Themes
 Filename: debs/Mytheme.deb
 dev: JostynP100
 Homepage: https://JostynP100.github.io/JP100/
-Version: 1.0.1
+Version: 1.0
 Filesize: 15396 bytes
 
 Package: com.jostynp100.crunchyroll++
