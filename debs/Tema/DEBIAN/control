@@ -1,0 +1,11 @@
+Package: com.jostynp100.tema
+Name: Tema
+Architecture: iphoneos-arm
+Description: tema de prueba
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: JostynP100 <jostyn.alexis@gmail.com>
+Section: Themes
+dev: JostynP100
+Homepage: https://JostynP100.github.io/JP100/
+Version: 1.0
+
