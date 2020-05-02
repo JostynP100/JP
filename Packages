@@ -25,3 +25,15 @@ dev: JostynP100
 Homepage: https://JostynP100.github.io/JP100/
 Version: 1.0
 Size: 301 bytes
+
+Package: com.jostynp100.crunchyroll
+Name: Crunchyroll
+Architecture: iphoneos-arm
+Description: App para ver anime
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: JostynP100 <jostyn.alexis@gmail.com>
+Section: Video
+dev: JostynP100
+Homepage: https://JostynP100.github.io/JP100/
+Version: 3.5.1
+Size: 328340
