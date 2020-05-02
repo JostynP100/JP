@@ -10,7 +10,7 @@ Depends: mobilesubstrate
 Filename: debs/preferenceloader_2.2.4.deb
 Filesize: 32736 bytes
 
-Package: net.jostynp100.Mytheme
+Package: net.jostynp100.mytheme
 Name: Mytheme
 Architecture: iphoneos-arm
 Description: tema de prueba
@@ -23,7 +23,7 @@ Homepage: https://JostynP100.github.io/JP100/
 Version: 1.0
 Filesize: 15396 bytes
 
-Package: net.jostynp100.crunchyroll++
+Package: com.jostynp100.crunchyroll++
 Name: Crunchyroll++
 Architecture: iphoneos-arm
 Description: App para ver anime
