@@ -1,15 +1,3 @@
-Package: com.jostynp100.preferenceloader
-Name: PreferenceLoader
-Version: 2.2.4
-Architecture: iphoneos-arm
-Description: load preferences in style
-Maintainer: JostynP100 <jostyn.alexis@gmail.com>
-Author: Sam Bingner <maintainer@sbdhi.com>
-Section: System
-Depends: mobilesubstrate
-Filename: debs/preferenceloader_2.2.4.deb
-Filesize: 32736 bytes
-
 Package: com.jostynp100.Tema
 Name: Tema
 Version: 1.0
@@ -21,17 +9,4 @@ Section: Themes
 Filename: debs/Tema.deb
 dev: JostynP100
 Filesize: 23064
-
-Package: com.jostynp100.crunchyroll++
-Name: Crunchyroll++
-Version: 3.5.1
-Architecture: iphoneos-arm
-Description: App para ver anime
-Maintainer: JostynP100 <jostyn.alexis@gmail.com>
-Author: JostynP100 <jostyn.alexis@gmail.com>
-Section: Video
-Filename: debs/Crunchyroll++.deb
-dev: JostynP100
-Filesize: 328340 bytes
-
 
