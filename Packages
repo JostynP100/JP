@@ -10,3 +10,15 @@ Filename: debs/Tema.deb
 dev: JostynP100
 Size: 23064 
 
+Package: com.jostynp100.crunchyroll++
+Name: Crunchyroll++
+Version: 3.5.1
+Architecture: iphoneos-arm
+Description: app para ver anime
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: JostynP100 <jostyn.alexis@gmail.com>
+Section: Entertainment
+Filename: debs/Crunchyroll++_3.5.1
+dev: JostynP100
+Size: 7305856
+
