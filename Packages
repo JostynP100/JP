@@ -8,17 +8,5 @@ Author: JostynP100 <jostyn.alexis@gmail.com>
 Section: Themes
 Filename: debs/Tema.deb
 dev: JostynP100
-Size: 23064 
-
-Package: 
-Name: 
-Version: 
-Architecture: 
-Description: 
-Maintainer: JostynP100 <jostyn.alexis@gmail.com>
-Author: JostynP100 <jostyn.alexis@gmail.com>
-Section: 
-Filename: debs/
-dev: JostynP100
-Size: 
+Size: 38136 
 
