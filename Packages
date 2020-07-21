@@ -9,3 +9,14 @@ Section: Themes
 Filename: debs/Tema.deb
 dev: JostynP100
 Size: 38136 
+
+Package: ru.domo.cocoatop64
+Name: CocoaTop
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Description: Visualiza los procesos de iOS GUI (64-bit)
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: Domo
+Section: Utilities
+Filename: debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 742 
