@@ -19,4 +19,43 @@ Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Author: Domo
 Section: Utilities
 Filename: debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
-Size: 742 
+Size: 742
+
+Package: com.jostynp100.powerloghelperdfix
+Name: PowerLogHelperdFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: En ios 13, algunos tweaks que se inyectan en powerlogHelperd lo ponen en un bucle de bloqueo. Esto hace que la bateria se agote y la informacion no se cargue. Este tweak evita que otros tweaks se inyecten en powerlogHelperd, por lo tanto, soluciona el problema.
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: opa334
+Section: Tweaks
+Filename: debs/com.jostynp100.powerloghelperdfix_1.0_iphoneos-arm.deb
+dev: opa334
+Size: 152
+
+Package: com.jostynp100.barmoji
+Name: Barmoji
+Version: 2020.5
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 488
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Description: barra emoji de acceso rapido
+dev: CP Digital Darkroom
+Filename: debs/com.jostynp100.barmoji_2020.5_iphoneos-arm.deb
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+
+Package: com.jostynp100.BHTwitter
+Name: BHTwitter
+Version: 1.4
+Section: Tweaks
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate
+Author: BandarHelal
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Description: Tweak impresionante para Twitter
+dev: BandarHelal
+Filename: debs/com.jostynp100.BHTwitter_1.4_iphoneos-arm.deb
