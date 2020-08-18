@@ -59,3 +59,15 @@ Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Description: Tweak impresionante para Twitter
 dev: BandarHelal
 Filename: debs/com.jostynp100.BHTwitter_1.4_iphoneos-arm.deb
+
+Package: com.jostynp100.systeminfo
+Name: System Info
+Depends: mobilesubstrate
+Version: 2.7.2-1
+Architecture: iphoneos-arm
+Description: Información del sistema en la aplicación Configuración> General> Acerca de y otras secciones.  Configure boot-nonce, guarde SHSH, información de la batería, etc.
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: ARX8x
+Section: Tweaks
+dev: ARX8x
+Filename: debs/com.jostynp100.systeminfo_2.7.2-1_iphoneos-arm.deb
