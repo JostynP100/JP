@@ -71,3 +71,16 @@ Author: ARX8x
 Section: Tweaks
 dev: ARX8x
 Filename: debs/com.jostynp100.systeminfo_2.7.2-1_iphoneos-arm.deb
+
+Package: com.jostynp100.hardwarespecs
+Name: HardwareSpecs
+Depends: mobilesubstrate, preferenceloader
+Version: 0.2.2
+Architecture: iphoneos-arm
+Description: Sobre información de Hardware.
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: m156@nrkvv
+Section: Tweaks
+dev: m156@nrkvv
+Size: 364
+Filename: debs/
