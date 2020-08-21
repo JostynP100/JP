@@ -91,3 +91,14 @@ Section: Tweaks
 Version: 0.2-1
 Installed-Size: 3828
 Filename: debs/com.jostynp100.hswidgets_0.2-1_iphoneos-arm.deb
+
+Package: com.jostynp100.libpddokdo
+Name: libPDDokdo
+Version: 1.3
+Section: System
+Architecture: iphoneos-arm
+Installed-Size: 164
+Author: Soongyu Kwon
+Maintainer: JostynP100 
+Description: Una biblioteca impresionante para obtener el clima actual que proporciona iOS Weater.app fácilmente.
+Filename: debs/com.jostynp100.libpddokdo_1.3_iphoneos-arm.deb
