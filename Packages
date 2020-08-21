@@ -30,7 +30,6 @@ Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Author: opa334
 Section: Tweaks
 Filename: debs/com.jostynp100.powerloghelperdfix_1.0_iphoneos-arm.deb
-dev: opa334
 Size: 152
 
 Package: com.jostynp100.barmoji
@@ -43,7 +42,6 @@ Installed-Size: 488
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Description: barra emoji de acceso rapido
-dev: CP Digital Darkroom
 Filename: debs/com.jostynp100.barmoji_2020.5_iphoneos-arm.deb
 Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
 
@@ -57,7 +55,6 @@ Depends: firmware (>= 12.0), mobilesubstrate
 Author: BandarHelal
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Description: Tweak impresionante para Twitter
-dev: BandarHelal
 Filename: debs/com.jostynp100.BHTwitter_1.4_iphoneos-arm.deb
 
 Package: com.jostynp100.systeminfo
@@ -69,7 +66,6 @@ Description: Información del sistema en la aplicación Configuración> General>
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Author: ARX8x
 Section: Tweaks
-dev: ARX8x
 Filename: debs/com.jostynp100.systeminfo_2.7.2-1_iphoneos-arm.deb
 
 Package: com.jostynp100.hardwarespecs
@@ -81,6 +77,17 @@ Description: Sobre información de Hardware.
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Author: m156@nrkvv
 Section: Tweaks
-dev: m156@nrkvv
 Size: 364
-Filename: debs/
+Filename: debs/com.jostynp100.hardwarespecs_0.2.2_iphoneos-arm.deb
+
+Package: com.jostynp100.hswidgets
+Name: HSWidgets
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Agregue los widgets de hoy o los widgets personalizados a la pantalla de inicio.
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
+Version: 0.2-1
+Installed-Size: 3828
+Filename: debs/com.jostynp100.hswidgets_0.2-1_iphoneos-arm.deb
