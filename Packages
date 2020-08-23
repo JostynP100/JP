@@ -116,7 +116,7 @@ Description: Widget meteorológico estilo iOS 14 para HSWidgets.
 Filename: debs/com.jostynp100.hsweatherwidget_1.0_iphoneos-arm.deb
 
 Package: com.jostynp100.Saily
-Name: Saily
+Name: Saily beta
 Description: Moderno, Rapido y Lindo.
 Author: Saily Team <master@233owo.com>
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
@@ -125,7 +125,7 @@ Section: Applications
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
 Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
 Architecture: iphoneos-arm
-Depiction: https://github.com/JostynP100/JP100/blob/master/README.md
+Depiction: https://github.com/JostynP100/JP100/blob/master/Saily/README.md
 Nativedepiction: https://github.com/JostynP100/JP100/blob/master/Saily/nativeDepiction.json
 Icon: https://jostynp100.github.io/JP100/Saily/icon-83.5@2x.png
 Filename: debs/com.jostynp100.Saily_1.0-1_iphoneos-arm.deb
