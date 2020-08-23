@@ -125,7 +125,7 @@ Section: Applications
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
 Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
 Architecture: iphoneos-arm
-Depiction: https://jostynp100.github.io/JP100/README.md
-Nativedepiction: https://jostynp100.github.io/JP100/Saily/nativeDepiction.json
+Depiction: https://github.com/JostynP100/JP100/README.md
+Nativedepiction: https://github.com/JostynP100/JP100/Saily/nativeDepiction.json
 Icon: https://jostynp100.github.io/JP100/Saily/icon-83.5@2x.png
 Filename: debs/com.jostynp100.Saily_1.0-1_iphoneos-arm.deb
