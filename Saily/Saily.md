@@ -1,10 +1,10 @@
 # Saily
 ### Modern. Fast. Beautiful.
 
-[![Pipeline Status](https://lab.qaq.wiki/Lakr233/Protein/badges/master/pipeline.svg)](https://lab.qaq.wiki/Lakr233/Protein/-/commits/master)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/SailyTeam/Saily/pulls)
+[![Pipeline Status](https://jostynp100.github.io/JP100/Saily/pipeline.svg)](https://github.com/JostynP100/JP100/commits/master)
+[![PRs Welcome](https://jostynp100.github.io/JP100/Saily/PRs-welcome-brightgreen.svg)](https://github.com/JostynP100/JP100/pulls)
 
-![Preview](./Attachments/main.jpeg)
+![Preview](./Saily/main.jpeg)
 
 Description: Saily is a modern APT package manager for jailbroken devices running iPadOS 13 and up.
 
