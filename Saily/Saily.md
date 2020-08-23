@@ -4,7 +4,7 @@
 [![Pipeline Status](https://jostynp100.github.io/JP100/Saily/pipeline.svg)](https://github.com/JostynP100/JP100/commits/master)
 [![PRs Welcome](https://jostynp100.github.io/JP100/Saily/PRs-welcome-brightgreen.svg)](https://github.com/JostynP100/JP100/pulls)
 
-![Preview](./Saily/main.jpeg)
+![Preview](./JP100/Saily/main.jpeg)
 
 Description: Saily is a modern APT package manager for jailbroken devices running iPadOS 13 and up.
 
