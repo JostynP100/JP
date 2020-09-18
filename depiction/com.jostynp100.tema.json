@@ -1,0 +1,31 @@
+{
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views":  [
+        {
+          "class": "DepictionHeaderView",
+          "title": "About"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "This theme is under development"
+        },
+        {
+            "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Updated",
+          "text": "September 17, 2020"
+        },
+        
+      ]
+    }  
+  ]
+}
