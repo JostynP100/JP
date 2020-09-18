@@ -23,9 +23,11 @@
           "class": "DepictionTableTextView",
           "title": "Updated",
           "text": "September 17, 2020"
-        },
-        
-      ]
+        }
+       
+      ],
+      "class": "DepictionStackView"
     }  
-  ]
+  ],
+  "class": "DepictionTabView"
 }
