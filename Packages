@@ -9,8 +9,8 @@ Section: Themes
 Filename: debs/Tema.deb
 dev: JostynP100
 Size: 38136 
-ModernDepiction: https://JostynP100.github.io/JP100/depiction/com.jostynp100.tema.json
-SileoDepiction: https://JostynP100.github.io/JP100/depiction/com.jostynp100.tema.json
+ModernDepiction: https://github.com/JostynP100/JP100/blob/master/depiction/com.jostynp100.tema.json
+SileoDepiction: https://github.com/JostynP100/JP100/blob/master/depiction/com.jostynp100.tema.json
 
 Package: ru.domo.cocoatop64
 Name: CocoaTop
