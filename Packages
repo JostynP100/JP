@@ -142,6 +142,7 @@ Package: com.jostynp100.facebooklite
 Section: Applications
 Minimum_OS: 13.0
 Filename: debs/F-Lite.deb
+Size: 3026
 
 Architecture: iphoneos-arm
 Author: Facebook 
@@ -154,3 +155,4 @@ Package: com.jostynp100.messengerlite
 Section: Applications
 Version: 171.0.0.53.116
 Filename: debs/M-Lite.deb
+Size: 20000
