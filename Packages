@@ -133,11 +133,20 @@ Icon: https://jostynp100.github.io/JP100/Saily/icon-83.5@2x.png
 Filename: debs/com.jostynp100.Saily_1.0-1_iphoneos-arm.deb
 
 Architecture: iphoneos-arm
-Author: Facebook <jostyn.alexis@gmail.com>
+Author: Facebook 
 Description: This package is Facebook Lite
-Maintainer: JostynP100
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Name: Facebook Lite
 Package: com.jostynp100.facebooklite
+Minimum OS Version: 13.0
+
+Architecture: iphoneos-arm
+Author: Facebook 
+Description: This package is Messenger Lite
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Name: Messenger Lite
+Minimum OS Version: 13.0
+Package: com.jostynp100.messengerlite
 Section: Applications
-Version: 200.0.0.8.117
-Filename: debs/F-Lite.deb
+Version: 171.0.0.53.116
+Filename: debs/M-Lite.deb
