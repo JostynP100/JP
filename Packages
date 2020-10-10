@@ -138,14 +138,15 @@ Description: This package is Facebook Lite
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Name: Facebook Lite
 Package: com.jostynp100.facebooklite
-Minimum OS Version: 13.0
+Minimum_OS: 13.0
+Filename: debs/F-Lite.deb
 
 Architecture: iphoneos-arm
 Author: Facebook 
 Description: This package is Messenger Lite
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Name: Messenger Lite
-Minimum OS Version: 13.0
+Minimum_OS: 13.0
 Package: com.jostynp100.messengerlite
 Section: Applications
 Version: 171.0.0.53.116
