@@ -134,7 +134,8 @@ Filename: debs/com.jostynp100.Saily_1.0-1_iphoneos-arm.deb
 
 Architecture: iphoneos-arm
 Author: Facebook 
-Description: This package is Facebook Lite
+Description: This package is Facebook Lite 
+"Nota: si el icono se muestra despues de haberlo eliminado, debe realizar un uicache" 
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Name: Facebook Lite
 Package: com.jostynp100.facebooklite
@@ -145,6 +146,7 @@ Filename: debs/F-Lite.deb
 Architecture: iphoneos-arm
 Author: Facebook 
 Description: This package is Messenger Lite
+"Nota: si el icono se muestra despues de haberlo eliminado, debe realizar un uicache" 
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Name: Messenger Lite
 Minimum_OS: 13.0
