@@ -138,6 +138,7 @@ Description: This package is Facebook Lite
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Name: Facebook Lite
 Package: com.jostynp100.facebooklite
+Section: Applications
 Minimum_OS: 13.0
 Filename: debs/F-Lite.deb
 
