@@ -152,7 +152,7 @@ Package: com.jostynp100.messengerlite
 Section: Applications
 Version: 171.0.0.53.116
 Filename: debs/M-Lite.deb
-Icon: icon/logoF.jpg
+Icon: https://jostynp100.github.io/JP100/icon/logoF.jpg
 
 Architecture: iphoneos-arm
 Author: Mojang
