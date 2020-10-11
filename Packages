@@ -152,3 +152,14 @@ Package: com.jostynp100.messengerlite
 Section: Applications
 Version: 171.0.0.53.116
 Filename: debs/M-Lite.deb
+
+Architecture: iphoneos-arm
+Author: Mojang
+Description: Minecraft!! 
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Name: Minecraft
+Minimum_OS: 10.0
+Package: com.jostynp100.minecraftpe
+Section: Games
+Version: 1.16.50
+Filename: debs/Minecraft.deb
