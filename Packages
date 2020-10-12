@@ -200,7 +200,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Section: System
 Filename: debs/mobilesubstrate_0.9.7111_iphoneos-arm.deb
 
-Package: preferenceloader
+Package: com.jostynp100.preferenceloader
 Name: PreferenceLoader
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -215,4 +215,20 @@ Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compati
 Version: 2.2.5
 Installed-Size: 526
 Filename: debs/preferenceloader_2.2.5.deb
+
+Package: com.jostynp100.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Section: System
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.10~beta1
+Installed-Size: 596
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10_beta1_iphoneos-arm.deb
 
