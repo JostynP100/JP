@@ -199,3 +199,20 @@ Description: powerful code insertion platform
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Section: System
 Filename: debs/mobilesubstrate_0.9.7111_iphoneos-arm.deb
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Sam Bingner <maintainer@sbdhi.com>
+Section: System
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.2.5
+Installed-Size: 526
+Filename: debs/preferenceloader_2.2.5.deb
+
