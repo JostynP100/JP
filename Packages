@@ -91,7 +91,7 @@ Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Author: DGh0st <deeppwnage@yahoo.com>
 Section: Tweaks
 Version: 0.2-1
-Installed-Size: 3828
+Size: 3828
 Filename: debs/com.jostynp100.hswidgets_0.2-1_iphoneos-arm.deb
 
 Package: com.jostynp100.libpddokdo
@@ -99,7 +99,7 @@ Name: libPDDokdo
 Version: 1.3
 Section: System
 Architecture: iphoneos-arm
-Installed-Size: 164
+Size: 164
 Author: Soongyu Kwon
 Maintainer: JostynP100 
 Description: Una biblioteca impresionante para obtener el clima actual que proporciona iOS Weater.app fácilmente.
@@ -111,7 +111,7 @@ Version: 1.0
 Section: Addons (HSWidgets)
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.jostynp100.hswidgets, com.jostynp100.libpddokdo (>= 1.3)
-Installed-Size: 108
+Size: 108
 Author: Soongyu Kwon
 Maintainer: JostynP100 
 Description: Widget meteorológico estilo iOS 14 para HSWidgets.
