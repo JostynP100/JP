@@ -40,7 +40,7 @@ Version: 2020.5
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
-Installed-Size: 488
+Size: 488
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Maintainer: JostynP100 <jostyn.alexis@gmail.com>
 Description: barra emoji de acceso rapido
