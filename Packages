@@ -167,3 +167,15 @@ Section: Games
 Version: 1.16.50
 Filename: debs/Minecraft.deb
 
+Package: jp.akusio.kernbypass
+Name: KernBypass
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=12.0)
+Architecture: iphoneos-arm
+Description: kernel level jailbreak detection bypass.
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Maintainer: akusio, Misty
+Author: akusio, Misty
+Section: System
+Version: 0.0.3
+Installed-Size: 392
+
