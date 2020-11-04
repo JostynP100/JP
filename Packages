@@ -230,3 +230,15 @@ Version: 0.1.1
 Installed-Size: 136
 Filename: debs/kr.xsf1re.vnodebypass_0.1.1_iphoneos-arm.deb
 
+Package: net.limneos.libbulletin
+Name: libbulletin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Simple library that displays bulletins
+Maintainer: Elias Limneos
+Author: Elias Limneos
+Section: Tweaks
+Version: 0.1-153
+Installed-Size: 332
+Filename: debs/net.limneos.libbulletin_0.1-153_iphoneos-arm.deb
+
