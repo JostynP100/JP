@@ -47,17 +47,17 @@ Description: barra emoji de acceso rapido
 Filename: debs/com.jostynp100.barmoji_2020.5_iphoneos-arm.deb
 Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
 
-Package: com.jostynp100.BHTwitter
+Package: com.bandarhl.BHTwitter
 Name: BHTwitter
-Version: 1.4
+Version: 1.7
 Section: Tweaks
 Priority: optional
 Architecture: iphoneos-arm
-Depends: firmware (>= 12.0), mobilesubstrate
+Depends: firmware (>= 11.0), mobilesubstrate
 Author: BandarHelal
-Maintainer: JostynP100 <jostyn.alexis@gmail.com>
-Description: Tweak impresionante para Twitter
-Filename: debs/com.jostynp100.BHTwitter_1.4_iphoneos-arm.deb
+Maintainer: BandarHelal
+Description: Awesome tweak for Twitter
+Filename: debs/5f7d5538cc58f6001b1e7a08.deb
 
 Package: com.jostynp100.systeminfo
 Name: System Info
@@ -179,4 +179,54 @@ Section: System
 Version: 0.0.3
 Installed-Size: 392
 Filename: debs/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
+
+Package: com.iarrays.tsssaver2
+Name: TSSSaver 2
+Version: 1.0-beta-4
+Architecture: iphoneos-arm
+Description: A one-click tool to save blobs using TSSsaver.1conan.com, idea from @nullpixel's TSS Saver but entirely rewritten in Objective-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
+Homepage: http://iarrays.com/
+Depiction: http://iarrays.com/depiction/tsssaver
+SileoDepiction: http://iarrays.com/sileo-depiction/tsssaver/tsssaver.json
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Section: Utilities
+Icon: file://Applications/TSSSaver.app/AppIcon40x40@2x.png
+Filename: debs/com.iarrays.tsssaver2_1.0-beta-4_iphoneos-arm.deb
+
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 14)
+Package: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Architecture: iphoneos-arm
+Description: The power supply relation of a device is operated.
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Version: 1.3.0
+Installed-Size: 2292
+Filename: debs/com.ichitaso.powerselector11_1.3.0_iphoneos-arm.deb
+
+Package: kr.xsf1re.vnodebypass
+Name: vnodebypass
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: XsF1re
+Author: XsF1re
+Section: System
+Tag: role::hacker
+Version: 0.1.1
+Installed-Size: 136
+Filename: debs/kr.xsf1re.vnodebypass_0.1.1_iphoneos-arm.deb
 
