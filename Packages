@@ -169,7 +169,7 @@ Filename: debs/Minecraft.deb
 
 Package: jp.akusio.kernbypass
 Name: KernBypass
-Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=14.0)
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=12.0)
 Architecture: iphoneos-arm
 Description: kernel level jailbreak detection bypass.
 Depiction: https://github.com/JostynP100/JP100/blob/master/depiction/README.md
