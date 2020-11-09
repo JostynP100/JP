@@ -167,19 +167,6 @@ Section: Games
 Version: 1.16.50
 Filename: debs/Minecraft.deb
 
-Package: jp.akusio.kernbypass
-Name: KernBypass
-Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
-Architecture: iphoneos-arm
-Description: kernel level jailbreak detection bypass.
-Depiction: https://github.com/JostynP100/JP100/blob/master/depiction/README.md
-Maintainer: akusio, Misty
-Author: akusio, Misty
-Section: System
-Version: 0.0.3
-Installed-Size: 392
-Filename: debs/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
-
 Package: com.iarrays.tsssaver2
 Name: TSSSaver 2
 Version: 1.0-beta-4
@@ -241,4 +228,24 @@ Section: Tweaks
 Version: 0.1-153
 Installed-Size: 332
 Filename: debs/net.limneos.libbulletin_0.1-153_iphoneos-arm.deb
+
+Author: akusio
+Maintainer: ichitaso
+Name: KernBypass
+Package: jp.akusio.kernbypass-unofficial
+Pre-Depends: firmware (>= 12.0), firmware (<< 14.2)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Section: System
+Architecture: iphoneos-arm
+Description: kernel level jailbreak detection bypass.
+Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
+Homepage: https://ichitaso.com
+dev: akusio, Misty, ichitaso
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Version: 0.0.4
+Installed-Size: 704
+Filename: debs/jp.akusio.kernbypass-unofficial_0.0.4_iphoneos-arm.deb
 
