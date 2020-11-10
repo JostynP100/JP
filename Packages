@@ -82,17 +82,17 @@ Section: Tweaks
 Size: 364
 Filename: debs/com.jostynp100.hardwarespecs_0.2.2_iphoneos-arm.deb
 
-Package: com.jostynp100.hswidgets
+Package: com.dgh0st.hswidgets
 Name: HSWidgets
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Agregue los widgets de hoy o los widgets personalizados a la pantalla de inicio.
-Maintainer: JostynP100 <jostyn.alexis@gmail.com>
+Description: Add today widgets or custom widgets to home screen.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
 Author: DGh0st <deeppwnage@yahoo.com>
 Section: Tweaks
-Version: 0.2-1
-Size: 3828
-Filename: debs/com.jostynp100.hswidgets_0.2-1_iphoneos-arm.deb
+Version: 0.3
+Installed-Size: 4172
+Filename: debs/com.dgh0st.hswidgets_0.3_iphoneos-arm.deb
 
 Package: com.jostynp100.libpddokdo
 Name: libPDDokdo
